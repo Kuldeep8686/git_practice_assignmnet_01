@@ -5,7 +5,7 @@ for(let i=1;i<=number;i++){
     counter++
   } 
    }
-if(counter==3){
+if(counter==2){
      console.log("Number is Prime");
    }
 else{
